@@ -1,5 +1,7 @@
 # AWS_MLOps_Design
 
+The design leverages native AWS services (my preference) to address the client’s requirements regarding uptime, continuous monitoring, and periodic updates while ensuring scalability, reliability, and security across all components. The AWS implementation involves building the ML pipeline using SageMaker, deploying the pipeline with CI/CD tools, and serving the pipeline through scalable endpoints 
+----------------
 ![MLOps1](https://github.com/user-attachments/assets/6afba027-a962-48c6-ac43-08f4c4288fc4)
 ![MLOps2](https://github.com/user-attachments/assets/73b7ea98-c472-4494-a3e1-04101b21f86a)
 ![MLOps3](https://github.com/user-attachments/assets/95dc0eba-4422-4efa-be1d-3358e84706d5)
